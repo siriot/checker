@@ -1,0 +1,8 @@
+1460639669665	Rename resource 'Ports'
+1460645600936	Rename resource 'Lcd-h'
+1460648247120	Rename resource 'Ports.h'
+1460648372222	Move 'Ports.h' to 'includes'
+1460648378711	Move 'Lcd.h' to 'includes'
+1460648458931	Move 'bsp.h' to 'src'
+1460648462658	Move 'Lcd.h' to 'src'
+1460648467404	Move 'Ports.h' to 'src'
